@@ -1,0 +1,5795 @@
+[
+  {
+    "title":  "Configure CI/CD pipeline",
+    "description": "Security improvement.",
+    "status": "DONE",
+    "dueDate": "2026-10-05"
+  },
+  {
+    "title": "Optimize synchronization",
+    "description": "Code review findings that need to be addressed.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-25"
+  },
+  {
+    "title": "Fix bug",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-04-02"
+  },
+  {
+    "title": "Write tests for cache invalidation",
+    "description": "This is a critical.",
+    "status": "DONE",
+    "dueDate": "2026-12-09"
+  },
+  {
+    "title": "Refactor data models",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO"
+  },
+  {
+    "title": "Review code coverage report",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Review SEO recommendations",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO",
+    "dueDate": "2026-03-11"
+  },
+  {
+    "title": "Fix bug in notification system",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-19"
+  },
+  {
+    "title": "Refactor dependency injection",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-11-23"
+  },
+  {
+    "title": "Investigate data inconsistency",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-02-05"
+  },
+  {
+    "title": "Configure error tracking",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-05-09"
+  },
+  {
+    "title": "Design notification center",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-09-27"
+  },
+  {
+    "title": "Refactor API endpoints",
+    "description": "Integration with third-party ",
+    "status": "DONE"
+  },
+  {
+    "title": "Design filter controls",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-02-12"
+  },
+  {
+    "title": "Update documentation for database schema",
+    "description": "Lower priority ",
+    "status": "DONE",
+    "dueDate": "2026-08-01"
+  },
+  {
+    "title": "Design user interface",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO"
+  },
+  {
+    "title": "Update documentation for integration guide",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-10"
+  },
+  {
+    "title": "Optimize data processing",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Refactor repository pattern",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-21"
+  },
+  {
+    "title": "Write tests for user permissions",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-23"
+  },
+  {
+    "title": "Review architecture proposal",
+    "description": "Performance optimization ",
+    "status": "TODO",
+    "dueDate": "2026-03-25"
+  },
+  {
+    "title": "Write tests for cache invalidation",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-11-17"
+  },
+  {
+    "title": "Write tests for file operations",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "title": "Configure cache cluster",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-12-12"
+  },
+  {
+    "title": "Fix bug in image upload",
+    "description": "Lower priority ",
+    "status": "DONE",
+    "dueDate": "2026-08-18"
+  },
+  {
+    "title": "Update documentation for architecture overview",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO"
+  },
+  {
+    "title": "Update documentation for user manual",
+    "description": "Monitoring enhancement",
+    "status": "TODO"
+  },
+  {
+    "title": "Review analytics data",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE",
+    "dueDate": "2026-09-27"
+  },
+  {
+    "title": "Design responsive dashboard",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE"
+  },
+  {
+    "title": "Fix bug in sorting algorithm",
+    "description": "Feature request.",
+    "status": "TODO"
+  },
+  {
+    "title": "Write tests for background jobs",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE",
+    "dueDate": "2026-05-13"
+  },
+  {
+    "title": "Write tests for data validation",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-07-02"
+  },
+  {
+    "title": "Update documentation for security policies",
+    "description": "Security improvement.",
+    "status": "TODO",
+    "dueDate": "2026-03-19"
+  },
+  {
+    "title": "Update documentation for configuration options",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-01"
+  },
+  {
+    "title": "Configure DNS records",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-10-10"
+  },
+  {
+    "title": "Write tests for import wizard",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-11-23"
+  },
+  {
+    "title": "Refactor authentication module",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-09-28"
+  },
+  {
+    "title": "Implement user authentication",
+    "description": "Feature request.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Review API changes",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-18"
+  },
+  {
+    "title": "Review compliance requirements",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-17"
+  },
+  {
+    "title": "Refactor configuration system",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-17"
+  },
+  {
+    "title": "Write tests for cache invalidation",
+    "description": "Performance optimization ",
+    "status": "DONE"
+  },
+  {
+    "title": "Design user profile",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE"
+  },
+  {
+    "title": "Review user feedback",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Refactor service layer",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-12-25"
+  },
+  {
+    "title": "Configure email server",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE"
+  },
+  {
+    "title": "Implement monitoring dashboard",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-08-17"
+  },
+  {
+    "title": "Design admin panel",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-06-09"
+  },
+  {
+    "title": "Write tests for cache invalidation",
+    "description": "Security improvement.",
+    "status": "DONE",
+    "dueDate": "2026-09-29"
+  },
+  {
+    "title": "Investigate third-party integration",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-08"
+  },
+  {
+    "title": "Write tests for cache invalidation",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-09-27"
+  },
+  {
+    "title": "Review accessibility audit",
+    "description": "Security improvement.",
+    "status": "TODO",
+    "dueDate": "2026-10-10"
+  },
+  {
+    "title": "Investigate disk space usage",
+    "description": "Integration with third-party ",
+    "status": "DONE"
+  },
+  {
+    "title": "Update documentation for API reference",
+    "description": "Lower priority ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-24"
+  },
+  {
+    "title": "Write tests for background jobs",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO"
+  },
+  {
+    "title": "Optimize cache strategy",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Fix bug in navigation menu",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-04-12"
+  },
+  {
+    "title": "Optimize API response time",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO",
+    "dueDate": "2026-06-12"
+  },
+  {
+    "title": "Update documentation for configuration options",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-04-09"
+  },
+  {
+    "title": "Review deployment checklist",
+    "description": "Feature request.",
+    "status": "DONE"
+  },
+  {
+    "title": "Write tests for webhook handlers",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-02-24"
+  },
+  {
+    "title": "Implement file upload",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-12"
+  },
+  {
+    "title": "Design admin panel",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "TODO"
+  },
+  {
+    "title": "Investigate email delivery problems",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Refactor frontend components",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-06"
+  },
+  {
+    "title": "Implement logging system",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-12"
+  },
+  {
+    "title": "Fix bug in file download",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE",
+    "dueDate": "2026-09-27"
+  },
+  {
+    "title": "Refactor event handlers",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-03-17"
+  },
+  {
+    "title": "Optimize import process",
+    "description": "This is a critical task",
+    "status": "DONE"
+  },
+  {
+    "title": "Fix bug in password validation",
+    "description": "Performance optimization ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-05"
+  },
+  {
+    "title": "Write tests for authentication flow",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE",
+    "dueDate": "2026-06-19"
+  },
+  {
+    "title": "Design settings page",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE",
+    "dueDate": "2026-04-01"
+  },
+  {
+    "title": "Review scaling strategy",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-06-12"
+  },
+  {
+    "title": "Update documentation for troubleshooting guide",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-19"
+  },
+  {
+    "title": "Update documentation for contributing guidelines",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO"
+  },
+  {
+    "title": "Investigate third-party integration",
+    "description": "Lower priority ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-29"
+  },
+  {
+    "title": "Investigate background job failures",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-26"
+  },
+  {
+    "title": "Design landing page",
+    "description": "Technical debt ",
+    "status": "DONE"
+  },
+  {
+    "title": "Review analytics data",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-20"
+  },
+  {
+    "title": "Configure SSL certificates",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-17"
+  },
+  {
+    "title": "Configure CDN integration",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-05-28"
+  },
+  {
+    "title": "Update documentation for testing procedures",
+    "description": "Migration task to",
+    "status": "DONE"
+  },
+  {
+    "title": "Fix bug in search results",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-02-22"
+  },
+  {
+    "title": "Design admin panel",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE"
+  },
+  {
+    "title": "Implement password reset",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-08"
+  },
+  {
+    "title": "Design admin panel",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-29"
+  },
+  {
+    "title": "Optimize background jobs",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-06-03"
+  },
+  {
+    "title": "Investigate session expiration",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-02-18"
+  },
+  {
+    "title": "Design onboarding flow",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-05"
+  },
+  {
+    "title": "Investigate network errors",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO",
+    "dueDate": "2026-08-05"
+  },
+  {
+    "title": "Implement payment gateway",
+    "description": "Performance optimization ",
+    "status": "DONE"
+  },
+  {
+    "title": "Write tests for database migrations",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE"
+  },
+  {
+    "title": "Investigate payment failures",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "title": "Configure service mesh",
+    "description": "Performance optimization ",
+    "status": "TODO"
+  },
+  {
+    "title": "Investigate cache invalidation",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-13"
+  },
+  {
+    "title": "Write tests for integration points",
+    "description": "Feature request.",
+    "status": "DONE"
+  },
+  {
+    "title": "Review database migration",
+    "description": "Feature request.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-06"
+  },
+  {
+    "title": "Configure DNS records",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-08"
+  },
+  {
+    "title": "Configure message queue",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-15"
+  },
+  {
+    "title": "Design caching strategy",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-30"
+  },
+  {
+    "title": "Fix bug in image upload",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE",
+    "dueDate": "2026-08-28"
+  },
+  {
+    "title": "Configure container registry",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-03-07"
+  },
+  {
+    "title": "Implement API rate limiting",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-09-09"
+  },
+  {
+    "title": "Optimize bundle size",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-04-19"
+  },
+  {
+    "title": "Optimize synchronization",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-04-13"
+  },
+  {
+    "title": "Configure message queue",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO",
+    "dueDate": "2026-09-14"
+  },
+  {
+    "title": "Design mobile layout",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-06-16"
+  },
+  {
+    "title": "Configure service mesh",
+    "description": "Security improvement.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Investigate third-party integration",
+    "description": "Integration with third-party ",
+    "status": "TODO"
+  },
+  {
+    "title": "Implement API rate limiting",
+    "description": "Lower priority ",
+    "status": "DONE",
+    "dueDate": "2026-10-31"
+  },
+  {
+    "title": "Review SEO recommendations",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-09-21"
+  },
+  {
+    "title": "Update documentation for architecture overview",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-03-18"
+  },
+  {
+    "title": "Update documentation for monitoring setup",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-13"
+  },
+  {
+    "title": "Update documentation for admin guide",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-24"
+  },
+  {
+    "title": "Write tests for background jobs",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Investigate synchronization issues",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO"
+  },
+  {
+    "title": "Design landing page",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE"
+  },
+  {
+    "title": "Fix bug in login flow",
+    "description": "Lower priority ",
+    "status": "DONE",
+    "dueDate": "2026-03-16"
+  },
+  {
+    "title": "Update documentation for integration guide",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO",
+    "dueDate": "2026-09-29"
+  },
+  {
+    "title": "Investigate login issues",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-12-24"
+  },
+  {
+    "title": "Configure database replication",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE"
+  },
+  {
+    "title": "Review security policy",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-12-01"
+  },
+  {
+    "title": "Design user interface",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-05-10"
+  },
+  {
+    "title": "Review backup procedures",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-02-15"
+  },
+  {
+    "title": "Write tests for session management",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-02-22"
+  },
+  {
+    "title": "Implement backup system",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-12-26"
+  },
+  {
+    "title": "Refactor configuration system",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-12-09"
+  },
+  {
+    "title": "Configure container registry",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-27"
+  },
+  {
+    "title": "Configure DNS records",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE"
+  },
+  {
+    "title": "Refactor data models",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-03-24"
+  },
+  {
+    "title": "Refactor service layer",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-07-15"
+  },
+  {
+    "title": "Configure error tracking",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-08-29"
+  },
+  {
+    "title": "Fix bug in file download",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-08-01"
+  },
+  {
+    "title": "Review deployment checklist",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO",
+    "dueDate": "2026-06-18"
+  },
+  {
+    "title": "Update documentation for integration guide",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-08-03"
+  },
+  {
+    "title": "Optimize webhook delivery",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO",
+    "dueDate": "2026-02-14"
+  },
+  {
+    "title": "Write tests for session management",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE"
+  },
+  {
+    "title": "Optimize memory usage",
+    "description": "Migration task to",
+    "status": "TODO"
+  },
+  {
+    "title": "Write tests for scheduled tasks",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-11-18"
+  },
+  {
+    "title": "Review scaling strategy",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-06-15"
+  },
+  {
+    "title": "Implement two-factor authentication",
+    "description": "Performance optimization ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-10"
+  },
+  {
+    "title": "Write tests for authentication flow",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-03-09"
+  },
+  {
+    "title": "Optimize network requests",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE",
+    "dueDate": "2026-05-17"
+  },
+  {
+    "title": "Design settings page",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-11"
+  },
+  {
+    "title": "Implement OAuth integration",
+    "description": "Performance optimization ",
+    "status": "TODO"
+  },
+  {
+    "title": "Optimize import process",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-04-01"
+  },
+  {
+    "title": "Refactor routing logic",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-06-10"
+  },
+  {
+    "title": "Design database schema",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-08-17"
+  },
+  {
+    "title": "Investigate email delivery problems",
+    "description": "Integration with third-party ",
+    "status": "DONE"
+  },
+  {
+    "title": "Review code coverage report",
+    "description": "Migration task to",
+    "status": "TODO"
+  },
+  {
+    "title": "Review security audit findings",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-05-03"
+  },
+  {
+    "title": "Design filter controls",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-11-10"
+  },
+  {
+    "title": "Implement backup system",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-10-10"
+  },
+  {
+    "title": "Implement payment gateway",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-12-10"
+  },
+  {
+    "title": "Configure logging aggregation",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-06"
+  },
+  {
+    "title": "Write tests for email service",
+    "description": "Security improvement.",
+    "status": "TODO",
+    "dueDate": "2026-07-06"
+  },
+  {
+    "title": "Design settings page",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-29"
+  },
+  {
+    "title": "Refactor dependency injection",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO",
+    "dueDate": "2026-09-12"
+  },
+  {
+    "title": "Review backup procedures",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Write tests for report generation",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO",
+    "dueDate": "2026-03-24"
+  },
+  {
+    "title": "Optimize scheduled tasks",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-07-27"
+  },
+  {
+    "title": "Refactor API endpoints",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-16"
+  },
+  {
+    "title": "Configure error tracking",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-04-06"
+  },
+  {
+    "title": "Write tests for search functionality",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-09-08"
+  },
+  {
+    "title": "Write tests for file operations",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-12-07"
+  },
+  {
+    "title": "Design user interface",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-10-20"
+  },
+  {
+    "title": "Write tests for notification system",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-10-26"
+  },
+  {
+    "title": "Update documentation for testing procedures",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-30"
+  },
+  {
+    "title": "Investigate slow queries",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-07-30"
+  },
+  {
+    "title": "Implement error handling",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-12"
+  },
+  {
+    "title": "Refactor test suite",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-07-04"
+  },
+  {
+    "title": "Implement user authentication",
+    "description": "Monitoring enhancement",
+    "status": "DONE",
+    "dueDate": "2026-05-10"
+  },
+  {
+    "title": "Implement logging system",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE",
+    "dueDate": "2026-06-27"
+  },
+  {
+    "title": "Refactor constants file",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-07-09"
+  },
+  {
+    "title": "Review scaling strategy",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-08"
+  },
+  {
+    "title": "Optimize background jobs",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE",
+    "dueDate": "2026-11-30"
+  },
+  {
+    "title": "Review security policy",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-12-19"
+  },
+  {
+    "title": "Refactor error handling",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Design security framework",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-01"
+  },
+  {
+    "title": "Write tests for notification system",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-13"
+  },
+  {
+    "title": "Fix bug in date picker",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-05-11"
+  },
+  {
+    "title": "Design admin panel",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-19"
+  },
+  {
+    "title": "Investigate database timeout",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-03-09"
+  },
+  {
+    "title": "Write tests for notification system",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-02-05"
+  },
+  {
+    "title": "Investigate network errors",
+    "description": "Lower priority ",
+    "status": "DONE",
+    "dueDate": "2026-08-29"
+  },
+  {
+    "title": "Design onboarding flow",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-03-07"
+  },
+  {
+    "title": "Investigate background job failures",
+    "description": "Security improvement.",
+    "status": "TODO"
+  },
+  {
+    "title": "Configure load balancer",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-13"
+  },
+  {
+    "title": "Review user feedback",
+    "description": "Technical debt ",
+    "status": "DONE"
+  },
+  {
+    "title": "Implement backup system",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-08"
+  },
+  {
+    "title": "Refactor API endpoints",
+    "description": "Lower priority ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-28"
+  },
+  {
+    "title": "Investigate email delivery problems",
+    "description": "Monitoring enhancement",
+    "status": "DONE",
+    "dueDate": "2026-05-06"
+  },
+  {
+    "title": "Configure security scanning",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-20"
+  },
+  {
+    "title": "Write tests for user registration",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-07-02"
+  },
+  {
+    "title": "Implement webhook system",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE",
+    "dueDate": "2026-02-07"
+  },
+  {
+    "title": "Configure error tracking",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-04-24"
+  },
+  {
+    "title": "Design security framework",
+    "description": "Lower priority ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-09"
+  },
+  {
+    "title": "Refactor event handlers",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-11-23"
+  },
+  {
+    "title": "Update documentation for admin guide",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE",
+    "dueDate": "2026-08-10"
+  },
+  {
+    "title": "Write tests for integration points",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-06-05"
+  },
+  {
+    "title": "Refactor error handling",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-09-28"
+  },
+  {
+    "title": "Implement webhook system",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-15"
+  },
+  {
+    "title": "Optimize scheduled tasks",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE"
+  },
+  {
+    "title": "Configure CDN integration",
+    "description": "Code review findings that need to be addressed.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-17"
+  },
+  {
+    "title": "Investigate network errors",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-02-24"
+  },
+  {
+    "title": "Configure logging aggregation",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-16"
+  },
+  {
+    "title": "Implement OAuth integration",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Configure container registry",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-05-23"
+  },
+  {
+    "title": "Design admin panel",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-05-16"
+  },
+  {
+    "title": "Refactor constants file",
+    "description": "Lower priority ",
+    "status": "DONE",
+    "dueDate": "2026-10-03"
+  },
+  {
+    "title": "Write tests for database migrations",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-04-14"
+  },
+  {
+    "title": "Review dependency updates",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-02-02"
+  },
+  {
+    "title": "Refactor routing logic",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-12-01"
+  },
+  {
+    "title": "Design notification center",
+    "description": "Migration task to",
+    "status": "DONE"
+  },
+  {
+    "title": "Fix bug in report generation",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-09-06"
+  },
+  {
+    "title": "Review compliance requirements",
+    "description": "Performance optimization ",
+    "status": "TODO",
+    "dueDate": "2026-11-02"
+  },
+  {
+    "title": "Design security framework",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE"
+  },
+  {
+    "title": "Optimize notification dispatch",
+    "description": "This is a critical task",
+    "status": "TODO"
+  },
+  {
+    "title": "Configure dependency updates",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-09"
+  },
+  {
+    "title": "Implement error handling",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-08-19"
+  },
+  {
+    "title": "Fix bug in data export",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-06-11"
+  },
+  {
+    "title": "Write tests for user registration",
+    "description": "Migration task to",
+    "status": "TODO"
+  },
+  {
+    "title": "Investigate high CPU usage",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-12-08"
+  },
+  {
+    "title": "Fix bug in pagination",
+    "description": "Monitoring enhancement",
+    "status": "DONE",
+    "dueDate": "2026-08-19"
+  },
+  {
+    "title": "Review database migration",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-05-07"
+  },
+  {
+    "title": "Investigate disk space usage",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-30"
+  },
+  {
+    "title": "Review dependency updates",
+    "description": "Lower priority ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-25"
+  },
+  {
+    "title": "Review deployment checklist",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE",
+    "dueDate": "2026-04-29"
+  },
+  {
+    "title": "Review user feedback",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO",
+    "dueDate": "2026-08-24"
+  },
+  {
+    "title": "Investigate disk space usage",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-08-06"
+  },
+  {
+    "title": "Update documentation for database schema",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-21"
+  },
+  {
+    "title": "Configure email server",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-10-09"
+  },
+  {
+    "title": "Design settings page",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-02-08"
+  },
+  {
+    "title": "Configure email server",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO"
+  },
+  {
+    "title": "Configure CDN integration",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-19"
+  },
+  {
+    "title": "Update documentation for configuration options",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-12"
+  },
+  {
+    "title": "Refactor middleware stack",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO",
+    "dueDate": "2026-08-15"
+  },
+  {
+    "title": "Design deployment pipeline",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-05-31"
+  },
+  {
+    "title": "Fix bug in user profile",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-11-06"
+  },
+  {
+    "title": "Configure firewall rules",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-11-25"
+  },
+  {
+    "title": "Optimize database queries",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-12-10"
+  },
+  {
+    "title": "Refactor business logic",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Implement payment gateway",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Implement password reset",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-10-26"
+  },
+  {
+    "title": "Design security framework",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "TODO",
+    "dueDate": "2026-03-22"
+  },
+  {
+    "title": "Refactor error handling",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-07-28"
+  },
+  {
+    "title": "Write tests for session management",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE"
+  },
+  {
+    "title": "Optimize background jobs",
+    "description": "Performance optimization ",
+    "status": "DONE",
+    "dueDate": "2026-02-27"
+  },
+  {
+    "title": "Fix bug in date picker",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-10-09"
+  },
+  {
+    "title": "Design mobile layout",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-07-15"
+  },
+  {
+    "title": "Design monitoring solution",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-08"
+  },
+  {
+    "title": "Optimize import process",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-08-24"
+  },
+  {
+    "title": "Write tests for integration points",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-04-13"
+  },
+  {
+    "title": "Configure SSL certificates",
+    "description": "Performance optimization ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-23"
+  },
+  {
+    "title": "Investigate intermittent failures",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-02-28"
+  },
+  {
+    "title": "Review design mockups",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-11-21"
+  },
+  {
+    "title": "Configure monitoring alerts",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-18"
+  },
+  {
+    "title": "Design onboarding flow",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO"
+  },
+  {
+    "title": "Update documentation for testing procedures",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-25"
+  },
+  {
+    "title": "Configure dependency updates",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-21"
+  },
+  {
+    "title": "Configure logging aggregation",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-09-06"
+  },
+  {
+    "title": "Investigate high CPU usage",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-06-17"
+  },
+  {
+    "title": "Review SEO recommendations",
+    "description": "Technical debt ",
+    "status": "TODO"
+  },
+  {
+    "title": "Implement two-factor authentication",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-09"
+  },
+  {
+    "title": "Configure backup schedule",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-03-28"
+  },
+  {
+    "title": "Implement user roles",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE"
+  },
+  {
+    "title": "Implement user authentication",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE"
+  },
+  {
+    "title": "Optimize synchronization",
+    "description": "Monitoring enhancement",
+    "status": "DONE",
+    "dueDate": "2026-10-21"
+  },
+  {
+    "title": "Write tests for authentication flow",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-08"
+  },
+  {
+    "title": "Implement two-factor authentication",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO"
+  },
+  {
+    "title": "Implement backup system",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-12"
+  },
+  {
+    "title": "Optimize bundle size",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-05-24"
+  },
+  {
+    "title": "Implement payment gateway",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-05-01"
+  },
+  {
+    "title": "Design monitoring solution",
+    "description": "Monitoring enhancement",
+    "status": "TODO"
+  },
+  {
+    "title": "Implement search functionality",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-06-21"
+  },
+  {
+    "title": "Configure message queue",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-14"
+  },
+  {
+    "title": "Review disaster recovery plan",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-03-23"
+  },
+  {
+    "title": "Implement email notifications",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-09-23"
+  },
+  {
+    "title": "Refactor logging implementation",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-25"
+  },
+  {
+    "title": "Configure backup schedule",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE",
+    "dueDate": "2026-04-06"
+  },
+  {
+    "title": "Design landing page",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-06-23"
+  },
+  {
+    "title": "Refactor business logic",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-03-09"
+  },
+  {
+    "title": "Review accessibility audit",
+    "description": "Feature request.",
+    "status": "DONE"
+  },
+  {
+    "title": "Update documentation for release notes",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO"
+  },
+  {
+    "title": "Fix bug in password validation",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-18"
+  },
+  {
+    "title": "Design settings page",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-05-23"
+  },
+  {
+    "title": "Review pull request #123",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-10-15"
+  },
+  {
+    "title": "Investigate payment failures",
+    "description": "Security improvement.",
+    "status": "DONE"
+  },
+  {
+    "title": "Review API changes",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-04-27"
+  },
+  {
+    "title": "Fix bug in filter logic",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO",
+    "dueDate": "2026-12-18"
+  },
+  {
+    "title": "Update documentation for user manual",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "TODO",
+    "dueDate": "2026-05-18"
+  },
+  {
+    "title": "Update documentation for contributing guidelines",
+    "description": "Technical debt ",
+    "status": "DONE"
+  },
+  {
+    "title": "Design mobile layout",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-02-25"
+  },
+  {
+    "title": "Implement audit trail",
+    "description": "Integration with third-party ",
+    "status": "DONE"
+  },
+  {
+    "title": "Implement OAuth integration",
+    "description": "Performance optimization ",
+    "status": "TODO"
+  },
+  {
+    "title": "Investigate network errors",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE",
+    "dueDate": "2026-10-22"
+  },
+  {
+    "title": "Refactor frontend components",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-05-27"
+  },
+  {
+    "title": "Design mobile layout",
+    "description": "Feature request.",
+    "status": "TODO"
+  },
+  {
+    "title": "Review security policy",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-02-04"
+  },
+  {
+    "title": "Optimize cache strategy",
+    "description": "Code review findings that need to be addressed.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-07"
+  },
+  {
+    "title": "Investigate data inconsistency",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-26"
+  },
+  {
+    "title": "Design navigation structure",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-06-25"
+  },
+  {
+    "title": "Write tests for scheduled tasks",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-24"
+  },
+  {
+    "title": "Design notification center",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-08-08"
+  },
+  {
+    "title": "Optimize background jobs",
+    "description": "Performance optimization ",
+    "status": "DONE",
+    "dueDate": "2026-12-02"
+  },
+  {
+    "title": "Refactor repository pattern",
+    "description": "Integration with third-party ",
+    "status": "TODO"
+  },
+  {
+    "title": "Refactor validation rules",
+    "description": "Security improvement.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Investigate email delivery problems",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-22"
+  },
+  {
+    "title": "Configure backup schedule",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-08-31"
+  },
+  {
+    "title": "Fix bug in date picker",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE"
+  },
+  {
+    "title": "Configure load balancer",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE",
+    "dueDate": "2026-05-18"
+  },
+  {
+    "title": "Design onboarding flow",
+    "description": "Security improvement.",
+    "status": "DONE",
+    "dueDate": "2026-04-14"
+  },
+  {
+    "title": "Optimize database queries",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-04"
+  },
+  {
+    "title": "Configure backup schedule",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-08"
+  },
+  {
+    "title": "Refactor constants file",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO"
+  },
+  {
+    "title": "Optimize asset delivery",
+    "description": "Technical debt ",
+    "status": "DONE"
+  },
+  {
+    "title": "Optimize database queries",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-07-17"
+  },
+  {
+    "title": "Update documentation for review process",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-04"
+  },
+  {
+    "title": "Investigate performance degradation",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO",
+    "dueDate": "2026-12-22"
+  },
+  {
+    "title": "Fix bug in report generation",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Design API architecture",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-07"
+  },
+  {
+    "title": "Implement data validation",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-08-06"
+  },
+  {
+    "title": "Optimize report generation",
+    "description": "Performance optimization ",
+    "status": "TODO",
+    "dueDate": "2026-11-06"
+  },
+  {
+    "title": "Update documentation for release notes",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-03"
+  },
+  {
+    "title": "Fix bug in user profile",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-03-10"
+  },
+  {
+    "title": "Configure API gateway",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Update documentation for backup procedures",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-04-14"
+  },
+  {
+    "title": "Fix bug in image upload",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-04-23"
+  },
+  {
+    "title": "Write tests for file operations",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE",
+    "dueDate": "2026-05-17"
+  },
+  {
+    "title": "Review scaling strategy",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-20"
+  },
+  {
+    "title": "Write tests for database migrations",
+    "description": "Migration task to",
+    "status": "DONE"
+  },
+  {
+    "title": "Design monitoring solution",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-02-26"
+  },
+  {
+    "title": "Write tests for data export",
+    "description": "Lower priority ",
+    "status": "DONE"
+  },
+  {
+    "title": "Implement two-factor authentication",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-03-12"
+  },
+  {
+    "title": "Review SEO recommendations",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "TODO",
+    "dueDate": "2026-08-16"
+  },
+  {
+    "title": "Update documentation for backup procedures",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO",
+    "dueDate": "2026-11-24"
+  },
+  {
+    "title": "Update documentation for monitoring setup",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-06"
+  },
+  {
+    "title": "Write tests for data export",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-06-27"
+  },
+  {
+    "title": "Investigate high CPU usage",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-04-18"
+  },
+  {
+    "title": "Write tests for user permissions",
+    "description": "Performance optimization ",
+    "status": "DONE"
+  },
+  {
+    "title": "Refactor error handling",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-20"
+  },
+  {
+    "title": "Optimize network requests",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE"
+  },
+  {
+    "title": "Update documentation for backup procedures",
+    "description": "Security improvement.",
+    "status": "DONE"
+  },
+  {
+    "title": "Update documentation for database schema",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-02-02"
+  },
+  {
+    "title": "Update documentation for monitoring setup",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "title": "Optimize search algorithm",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-10-19"
+  },
+  {
+    "title": "Implement OAuth integration",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO",
+    "dueDate": "2026-04-11"
+  },
+  {
+    "title": "Review backup procedures",
+    "description": "Lower priority ",
+    "status": "TODO"
+  },
+  {
+    "title": "Review user feedback",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO"
+  },
+  {
+    "title": "Refactor middleware stack",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE"
+  },
+  {
+    "title": "Review compliance requirements",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE"
+  },
+  {
+    "title": "Review design mockups",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-02-19"
+  },
+  {
+    "title": "Design email templates",
+    "description": "Feature request.",
+    "status": "DONE",
+    "dueDate": "2026-06-24"
+  },
+  {
+    "title": "Design security framework",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-09-03"
+  },
+  {
+    "title": "Fix bug in search results",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO"
+  },
+  {
+    "title": "Refactor test suite",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-18"
+  },
+  {
+    "title": "Fix bug in checkout process",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE",
+    "dueDate": "2026-04-08"
+  },
+  {
+    "title": "Refactor configuration system",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-14"
+  },
+  {
+    "title": "Configure firewall rules",
+    "description": "Migration task to",
+    "status": "TODO"
+  },
+  {
+    "title": "Write tests for authentication flow",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-02-12"
+  },
+  {
+    "title": "Write tests for import wizard",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-11-01"
+  },
+  {
+    "title": "Refactor constants file",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-11"
+  },
+  {
+    "title": "Optimize data processing",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-04-05"
+  },
+  {
+    "title": "Update documentation for style guide",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-12-22"
+  },
+  {
+    "title": "Refactor service layer",
+    "description": "Lower priority ",
+    "status": "DONE",
+    "dueDate": "2026-10-24"
+  },
+  {
+    "title": "Investigate email delivery problems",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "title": "Review design mockups",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-01"
+  },
+  {
+    "title": "Write tests for webhook handlers",
+    "description": "Code review findings that need to be addressed.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-24"
+  },
+  {
+    "title": "Update documentation for backup procedures",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO",
+    "dueDate": "2026-06-08"
+  },
+  {
+    "title": "Refactor authentication module",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-04-09"
+  },
+  {
+    "title": "Design API architecture",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO"
+  },
+  {
+    "title": "Investigate session expiration",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO"
+  },
+  {
+    "title": "Optimize image loading",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-05-14"
+  },
+  {
+    "title": "Update documentation for monitoring setup",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-10-08"
+  },
+  {
+    "title": "Configure DNS records",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-06-24"
+  },
+  {
+    "title": "Review user feedback",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-11-03"
+  },
+  {
+    "title": "Configure performance monitoring",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO",
+    "dueDate": "2026-04-09"
+  },
+  {
+    "title": "Investigate high CPU usage",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-11-07"
+  },
+  {
+    "title": "Optimize data export",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "TODO",
+    "dueDate": "2026-03-21"
+  },
+  {
+    "title": "Review pull request #123",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-28"
+  },
+  {
+    "title": "Refactor business logic",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO",
+    "dueDate": "2026-06-17"
+  },
+  {
+    "title": "Design filter controls",
+    "description": "Performance optimization ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-24"
+  },
+  {
+    "title": "Investigate synchronization issues",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE"
+  },
+  {
+    "title": "Update documentation for database schema",
+    "description": "Performance optimization ",
+    "status": "DONE"
+  },
+  {
+    "title": "Design email templates",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-05-14"
+  },
+  {
+    "title": "Write tests for notification system",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-23"
+  },
+  {
+    "title": "Investigate email delivery problems",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Optimize image loading",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-05-01"
+  },
+  {
+    "title": "Configure logging aggregation",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO",
+    "dueDate": "2026-09-21"
+  },
+  {
+    "title": "Configure performance monitoring",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Design monitoring solution",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-06-11"
+  },
+  {
+    "title": "Design filter controls",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-09-13"
+  },
+  {
+    "title": "Review code coverage report",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Write tests for user permissions",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-07-21"
+  },
+  {
+    "title": "Investigate high CPU usage",
+    "description": "Security improvement.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-13"
+  },
+  {
+    "title": "Review code coverage report",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-03-09"
+  },
+  {
+    "title": "Review API changes",
+    "description": "Feature request.",
+    "status": "DONE",
+    "dueDate": "2026-02-21"
+  },
+  {
+    "title": "Review code coverage report",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-06-14"
+  },
+  {
+    "title": "Investigate disk space usage",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-11-11"
+  },
+  {
+    "title": "Fix bug in user profile",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO"
+  },
+  {
+    "title": "Fix bug in pagination",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-11-24"
+  },
+  {
+    "title": "Design mobile layout",
+    "description": "Code review findings that need to be addressed.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-22"
+  },
+  {
+    "title": "Update documentation for API reference",
+    "description": "Feature request.",
+    "status": "DONE",
+    "dueDate": "2026-10-24"
+  },
+  {
+    "title": "Update documentation for integration guide",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-27"
+  },
+  {
+    "title": "Review analytics data",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-04-25"
+  },
+  {
+    "title": "Write tests for notification system",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO"
+  },
+  {
+    "title": "Refactor validation rules",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-04-07"
+  },
+  {
+    "title": "Review API changes",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO",
+    "dueDate": "2026-05-22"
+  },
+  {
+    "title": "Update documentation for troubleshooting guide",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-04"
+  },
+  {
+    "title": "Optimize synchronization",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-04-19"
+  },
+  {
+    "title": "Fix bug in API response",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-09"
+  },
+  {
+    "title": "Optimize rendering performance",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-25"
+  },
+  {
+    "title": "Update documentation for API reference",
+    "description": "Lower priority ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-27"
+  },
+  {
+    "title": "Update documentation for CI/CD pipeline",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-07-14"
+  },
+  {
+    "title": "Investigate session expiration",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-10-17"
+  },
+  {
+    "title": "Fix bug in filter logic",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-23"
+  },
+  {
+    "title": "Design responsive dashboard",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-09-10"
+  },
+  {
+    "title": "Configure load balancer",
+    "description": "Security improvement.",
+    "status": "DONE"
+  },
+  {
+    "title": "Investigate API latency",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-05-11"
+  },
+  {
+    "title": "Write tests for background jobs",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-01"
+  },
+  {
+    "title": "Design navigation structure",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-11"
+  },
+  {
+    "title": "Design filter controls",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-20"
+  },
+  {
+    "title": "Write tests for cache invalidation",
+    "description": "Security improvement.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-08"
+  },
+  {
+    "title": "Review scaling strategy",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-06-15"
+  },
+  {
+    "title": "Configure API gateway",
+    "description": "Integration with third-party ",
+    "status": "TODO"
+  },
+  {
+    "title": "Fix bug in image upload",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-27"
+  },
+  {
+    "title": "Optimize API response time",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO",
+    "dueDate": "2026-10-15"
+  },
+  {
+    "title": "Update documentation for configuration options",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "title": "Design database schema",
+    "description": "Monitoring enhancement",
+    "status": "DONE"
+  },
+  {
+    "title": "Review compliance requirements",
+    "description": "Migration task to",
+    "status": "TODO"
+  },
+  {
+    "title": "Write tests for email service",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-04-11"
+  },
+  {
+    "title": "Update documentation for code standards",
+    "description": "Performance optimization ",
+    "status": "TODO",
+    "dueDate": "2026-11-02"
+  },
+  {
+    "title": "Write tests for email service",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-07-08"
+  },
+  {
+    "title": "Investigate webhook failures",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-02-10"
+  },
+  {
+    "title": "Investigate network errors",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-11-12"
+  },
+  {
+    "title": "Review dependency updates",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-14"
+  },
+  {
+    "title": "Investigate scheduled task errors",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-08-17"
+  },
+  {
+    "title": "Fix bug in email delivery",
+    "description": "Code review findings that need to be addressed.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Fix bug in file download",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-10-02"
+  },
+  {
+    "title": "Review API changes",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-12-14"
+  },
+  {
+    "title": "Implement payment gateway",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-09"
+  },
+  {
+    "title": "Optimize synchronization",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-02-22"
+  },
+  {
+    "title": "Implement search functionality",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Configure CDN integration",
+    "description": "Security improvement.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Fix bug in API response",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-11-29"
+  },
+  {
+    "title": "Refactor service layer",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-25"
+  },
+  {
+    "title": "Optimize scheduled tasks",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-28"
+  },
+  {
+    "title": "Configure monitoring alerts",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE",
+    "dueDate": "2026-10-04"
+  },
+  {
+    "title": "Update documentation for style guide",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-19"
+  },
+  {
+    "title": "Write tests for background jobs",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-12-26"
+  },
+  {
+    "title": "Review user feedback",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Design notification center",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-12-10"
+  },
+  {
+    "title": "Review scaling strategy",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-08"
+  },
+  {
+    "title": "Review deployment checklist",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-08-19"
+  },
+  {
+    "title": "Update documentation for style guide",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-11-28"
+  },
+  {
+    "title": "Optimize rendering performance",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-18"
+  },
+  {
+    "title": "Configure performance monitoring",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-06"
+  },
+  {
+    "title": "Optimize bundle size",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Optimize memory usage",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO"
+  },
+  {
+    "title": "Refactor validation rules",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-11-22"
+  },
+  {
+    "title": "Review architecture proposal",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-13"
+  },
+  {
+    "title": "Implement OAuth integration",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-03-30"
+  },
+  {
+    "title": "Write tests for user registration",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-02"
+  },
+  {
+    "title": "Write tests for file operations",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-07-12"
+  },
+  {
+    "title": "Write tests for report generation",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE",
+    "dueDate": "2026-09-21"
+  },
+  {
+    "title": "Refactor business logic",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-05-17"
+  },
+  {
+    "title": "Configure error tracking",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE",
+    "dueDate": "2026-08-28"
+  },
+  {
+    "title": "Review compliance requirements",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO",
+    "dueDate": "2026-12-15"
+  },
+  {
+    "title": "Design search interface",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-08-28"
+  },
+  {
+    "title": "Fix bug in data export",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-07-21"
+  },
+  {
+    "title": "Design search interface",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE",
+    "dueDate": "2026-06-21"
+  },
+  {
+    "title": "Review security audit findings",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Investigate session expiration",
+    "description": "Security improvement.",
+    "status": "DONE",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "title": "Write tests for user registration",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-06-27"
+  },
+  {
+    "title": "Write tests for session management",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-09"
+  },
+  {
+    "title": "Investigate cache invalidation",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-05-30"
+  },
+  {
+    "title": "Update documentation for style guide",
+    "description": "Lower priority ",
+    "status": "DONE",
+    "dueDate": "2026-09-27"
+  },
+  {
+    "title": "Refactor event handlers",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE",
+    "dueDate": "2026-07-24"
+  },
+  {
+    "title": "Refactor configuration system",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-15"
+  },
+  {
+    "title": "Fix bug in API response",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-06"
+  },
+  {
+    "title": "Investigate network errors",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-11-15"
+  },
+  {
+    "title": "Refactor data models",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-06"
+  },
+  {
+    "title": "Optimize data processing",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-07-17"
+  },
+  {
+    "title": "Write tests for webhook handlers",
+    "description": "Security improvement.",
+    "status": "TODO",
+    "dueDate": "2026-07-08"
+  },
+  {
+    "title": "Refactor event handlers",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-21"
+  },
+  {
+    "title": "Refactor repository pattern",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-10-11"
+  },
+  {
+    "title": "Design reporting system",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-24"
+  },
+  {
+    "title": "Fix bug in email delivery",
+    "description": "Security improvement.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-06"
+  },
+  {
+    "title": "Design notification center",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO"
+  },
+  {
+    "title": "Configure DNS records",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE",
+    "dueDate": "2026-10-07"
+  },
+  {
+    "title": "Write tests for background jobs",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-10-11"
+  },
+  {
+    "title": "Implement payment gateway",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE",
+    "dueDate": "2026-08-11"
+  },
+  {
+    "title": "Configure load balancer",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-18"
+  },
+  {
+    "title": "Design reporting system",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Configure firewall rules",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-02-07"
+  },
+  {
+    "title": "Optimize asset delivery",
+    "description": "Feature request.",
+    "status": "DONE",
+    "dueDate": "2026-08-23"
+  },
+  {
+    "title": "Implement session management",
+    "description": "This is a critical task",
+    "status": "TODO"
+  },
+  {
+    "title": "Update documentation for testing procedures",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-04-18"
+  },
+  {
+    "title": "Fix bug in email delivery",
+    "description": "Security improvement.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-23"
+  },
+  {
+    "title": "Refactor data models",
+    "description": "Performance optimization ",
+    "status": "DONE",
+    "dueDate": "2026-12-19"
+  },
+  {
+    "title": "Fix bug in report generation",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-12-21"
+  },
+  {
+    "title": "Refactor utility functions",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-05"
+  },
+  {
+    "title": "Design notification center",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-13"
+  },
+  {
+    "title": "Implement error handling",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-02-02"
+  },
+  {
+    "title": "Configure service mesh",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-19"
+  },
+  {
+    "title": "Refactor dependency injection",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-12-29"
+  },
+  {
+    "title": "Update documentation for CI/CD pipeline",
+    "description": "Integration with third-party ",
+    "status": "DONE"
+  },
+  {
+    "title": "Update documentation for contributing guidelines",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-13"
+  },
+  {
+    "title": "Refactor business logic",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-07-16"
+  },
+  {
+    "title": "Review design mockups",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-08"
+  },
+  {
+    "title": "Investigate high CPU usage",
+    "description": "Performance optimization ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-12"
+  },
+  {
+    "title": "Refactor data models",
+    "description": "Monitoring enhancement",
+    "status": "DONE",
+    "dueDate": "2026-09-30"
+  },
+  {
+    "title": "Implement user roles",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-06-25"
+  },
+  {
+    "title": "Configure logging aggregation",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-01"
+  },
+  {
+    "title": "Configure dependency updates",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-08-02"
+  },
+  {
+    "title": "Review deployment checklist",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-10-09"
+  },
+  {
+    "title": "Configure CDN integration",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-12-23"
+  },
+  {
+    "title": "Fix bug in image upload",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE",
+    "dueDate": "2026-03-09"
+  },
+  {
+    "title": "Optimize search algorithm",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO",
+    "dueDate": "2026-02-19"
+  },
+  {
+    "title": "Fix bug in navigation menu",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO",
+    "dueDate": "2026-02-21"
+  },
+  {
+    "title": "Investigate email delivery problems",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE",
+    "dueDate": "2026-08-24"
+  },
+  {
+    "title": "Review design mockups",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-02-15"
+  },
+  {
+    "title": "Write tests for session management",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-08-03"
+  },
+  {
+    "title": "Refactor service layer",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-10-24"
+  },
+  {
+    "title": "Review security audit findings",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-12-15"
+  },
+  {
+    "title": "Configure message queue",
+    "description": "Security improvement.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "title": "Write tests for background jobs",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-04"
+  },
+  {
+    "title": "Update documentation for database schema",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO"
+  },
+  {
+    "title": "Investigate email delivery problems",
+    "description": "Performance optimization ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-29"
+  },
+  {
+    "title": "Design filter controls",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Fix bug in navigation menu",
+    "description": "Technical debt ",
+    "status": "DONE"
+  },
+  {
+    "title": "Investigate cache invalidation",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-06-11"
+  },
+  {
+    "title": "Investigate data inconsistency",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-11-22"
+  },
+  {
+    "title": "Design navigation structure",
+    "description": "Lower priority ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-24"
+  },
+  {
+    "title": "Update documentation for database schema",
+    "description": "Security improvement.",
+    "status": "TODO",
+    "dueDate": "2026-03-21"
+  },
+  {
+    "title": "Optimize memory usage",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-14"
+  },
+  {
+    "title": "Configure message queue",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Refactor data models",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-05-29"
+  },
+  {
+    "title": "Refactor logging implementation",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-12-06"
+  },
+  {
+    "title": "Implement API rate limiting",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO",
+    "dueDate": "2026-04-17"
+  },
+  {
+    "title": "Review deployment checklist",
+    "description": "Security improvement.",
+    "status": "TODO",
+    "dueDate": "2026-12-10"
+  },
+  {
+    "title": "Write tests for data export",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-07-29"
+  },
+  {
+    "title": "Review performance test results",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO"
+  },
+  {
+    "title": "Design navigation structure",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-04"
+  },
+  {
+    "title": "Design notification center",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-26"
+  },
+  {
+    "title": "Review analytics data",
+    "description": "Lower priority ",
+    "status": "DONE",
+    "dueDate": "2026-08-05"
+  },
+  {
+    "title": "Configure message queue",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE",
+    "dueDate": "2026-09-15"
+  },
+  {
+    "title": "Fix bug in navigation menu",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-11-21"
+  },
+  {
+    "title": "Configure error tracking",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO"
+  },
+  {
+    "title": "Review pull request #123",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-10-07"
+  },
+  {
+    "title": "Design onboarding flow",
+    "description": "Performance optimization ",
+    "status": "TODO",
+    "dueDate": "2026-06-20"
+  },
+  {
+    "title": "Review SEO recommendations",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE",
+    "dueDate": "2026-03-11"
+  },
+  {
+    "title": "Investigate network errors",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-11-06"
+  },
+  {
+    "title": "Write tests for search functionality",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-05-17"
+  },
+  {
+    "title": "Review pull request #123",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-10-24"
+  },
+  {
+    "title": "Fix bug in search results",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-10"
+  },
+  {
+    "title": "Configure DNS records",
+    "description": "Feature request.",
+    "status": "DONE",
+    "dueDate": "2026-08-30"
+  },
+  {
+    "title": "Implement user roles",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-05-06"
+  },
+  {
+    "title": "Refactor dependency injection",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-21"
+  },
+  {
+    "title": "Investigate synchronization issues",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-03"
+  },
+  {
+    "title": "Write tests for data export",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-06-26"
+  },
+  {
+    "title": "Investigate cache invalidation",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-06-18"
+  },
+  {
+    "title": "Investigate database timeout",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-09"
+  },
+  {
+    "title": "Update documentation for user manual",
+    "description": "Code review findings that need to be addressed.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-14"
+  },
+  {
+    "title": "Optimize scheduled tasks",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-28"
+  },
+  {
+    "title": "Fix bug in navigation menu",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO"
+  },
+  {
+    "title": "Investigate background job failures",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-12-29"
+  },
+  {
+    "title": "Write tests for user permissions",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-27"
+  },
+  {
+    "title": "Configure load balancer",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-09-01"
+  },
+  {
+    "title": "Optimize background jobs",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE",
+    "dueDate": "2026-03-20"
+  },
+  {
+    "title": "Implement search functionality",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-07-19"
+  },
+  {
+    "title": "Implement error handling",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO"
+  },
+  {
+    "title": "Investigate slow queries",
+    "description": "Feature request.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-23"
+  },
+  {
+    "title": "Investigate webhook failures",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-07-30"
+  },
+  {
+    "title": "Implement session management",
+    "description": "Code review findings that need to be addressed.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Update documentation for troubleshooting guide",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-03-04"
+  },
+  {
+    "title": "Optimize memory usage",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE",
+    "dueDate": "2026-09-13"
+  },
+  {
+    "title": "Optimize report generation",
+    "description": "Monitoring enhancement",
+    "status": "DONE",
+    "dueDate": "2026-10-18"
+  },
+  {
+    "title": "Investigate cache invalidation",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-09-09"
+  },
+  {
+    "title": "Write tests for import wizard",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Write tests for cache invalidation",
+    "description": "Monitoring enhancement",
+    "status": "DONE",
+    "dueDate": "2026-12-05"
+  },
+  {
+    "title": "Fix bug in login flow",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-11-01"
+  },
+  {
+    "title": "Configure cache cluster",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-06-03"
+  },
+  {
+    "title": "Configure logging aggregation",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE",
+    "dueDate": "2026-05-26"
+  },
+  {
+    "title": "Configure container registry",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-15"
+  },
+  {
+    "title": "Configure load balancer",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-03-27"
+  },
+  {
+    "title": "Review user feedback",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-07-21"
+  },
+  {
+    "title": "Review design mockups",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-02-19"
+  },
+  {
+    "title": "Implement password reset",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE",
+    "dueDate": "2026-08-15"
+  },
+  {
+    "title": "Implement monitoring dashboard",
+    "description": "Lower priority ",
+    "status": "DONE"
+  },
+  {
+    "title": "Fix bug in password validation",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO",
+    "dueDate": "2026-03-13"
+  },
+  {
+    "title": "Configure firewall rules",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-04-29"
+  },
+  {
+    "title": "Implement payment gateway",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO",
+    "dueDate": "2026-10-24"
+  },
+  {
+    "title": "Implement email notifications",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-10-18"
+  },
+  {
+    "title": "Write tests for integration points",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-05-05"
+  },
+  {
+    "title": "Configure message queue",
+    "description": "Lower priority ",
+    "status": "DONE",
+    "dueDate": "2026-07-10"
+  },
+  {
+    "title": "Review backup procedures",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-03-17"
+  },
+  {
+    "title": "Review SEO recommendations",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-11-18"
+  },
+  {
+    "title": "Design API architecture",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO",
+    "dueDate": "2026-10-10"
+  },
+  {
+    "title": "Investigate memory leak",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO",
+    "dueDate": "2026-09-08"
+  },
+  {
+    "title": "Fix bug in data synchronization",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-19"
+  },
+  {
+    "title": "Write tests for payment processing",
+    "description": "Lower priority ",
+    "status": "TODO"
+  },
+  {
+    "title": "Fix bug in user profile",
+    "description": "Migration task to",
+    "status": "DONE"
+  },
+  {
+    "title": "Implement OAuth integration",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Design caching strategy",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE",
+    "dueDate": "2026-07-29"
+  },
+  {
+    "title": "Write tests for report generation",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-06-26"
+  },
+  {
+    "title": "Investigate disk space usage",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-09"
+  },
+  {
+    "title": "Configure SSL certificates",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Refactor data models",
+    "description": "Security improvement.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-19"
+  },
+  {
+    "title": "Refactor API endpoints",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Review analytics data",
+    "description": "Migration task to",
+    "status": "DONE"
+  },
+  {
+    "title": "Refactor repository pattern",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-10-02"
+  },
+  {
+    "title": "Investigate session expiration",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-18"
+  },
+  {
+    "title": "Design API architecture",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO",
+    "dueDate": "2026-08-01"
+  },
+  {
+    "title": "Investigate high CPU usage",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-29"
+  },
+  {
+    "title": "Optimize search algorithm",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-03-05"
+  },
+  {
+    "title": "Design filter controls",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-08-01"
+  },
+  {
+    "title": "Implement backup system",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-20"
+  },
+  {
+    "title": "Implement real-time updates",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE"
+  },
+  {
+    "title": "Configure DNS records",
+    "description": "Performance optimization ",
+    "status": "DONE",
+    "dueDate": "2026-10-28"
+  },
+  {
+    "title": "Update documentation for code standards",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-11"
+  },
+  {
+    "title": "Refactor routing logic",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Optimize database queries",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-21"
+  },
+  {
+    "title": "Optimize background jobs",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO"
+  },
+  {
+    "title": "Design monitoring solution",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-07-12"
+  },
+  {
+    "title": "Fix bug in checkout process",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE",
+    "dueDate": "2026-11-04"
+  },
+  {
+    "title": "Investigate synchronization issues",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE",
+    "dueDate": "2026-12-26"
+  },
+  {
+    "title": "Write tests for payment processing",
+    "description": "Feature request.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-14"
+  },
+  {
+    "title": "Fix bug in date picker",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-20"
+  },
+  {
+    "title": "Refactor middleware stack",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-10-23"
+  },
+  {
+    "title": "Configure monitoring alerts",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "TODO",
+    "dueDate": "2026-10-21"
+  },
+  {
+    "title": "Review disaster recovery plan",
+    "description": "Performance optimization ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-01"
+  },
+  {
+    "title": "Fix bug in data synchronization",
+    "description": "Code review findings that need to be addressed.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-12"
+  },
+  {
+    "title": "Fix bug in search results",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-06-23"
+  },
+  {
+    "title": "Write tests for file operations",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Configure backup schedule",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE",
+    "dueDate": "2026-11-01"
+  },
+  {
+    "title": "Design onboarding flow",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-12-15"
+  },
+  {
+    "title": "Review compliance requirements",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE"
+  },
+  {
+    "title": "Optimize data export",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-06"
+  },
+  {
+    "title": "Write tests for integration points",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "TODO"
+  },
+  {
+    "title": "Refactor frontend components",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-03-29"
+  },
+  {
+    "title": "Implement audit trail",
+    "description": "Integration with third-party ",
+    "status": "DONE"
+  },
+  {
+    "title": "Implement webhook system",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-19"
+  },
+  {
+    "title": "Fix bug in data synchronization",
+    "description": "Security improvement.",
+    "status": "TODO"
+  },
+  {
+    "title": "Design user interface",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO"
+  },
+  {
+    "title": "Investigate intermittent failures",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-10-05"
+  },
+  {
+    "title": "Implement OAuth integration",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Implement audit trail",
+    "description": "Security improvement.",
+    "status": "DONE"
+  },
+  {
+    "title": "Review deployment checklist",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-11-11"
+  },
+  {
+    "title": "Optimize network requests",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-10"
+  },
+  {
+    "title": "Design landing page",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-03-27"
+  },
+  {
+    "title": "Refactor frontend components",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-15"
+  },
+  {
+    "title": "Refactor routing logic",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-02-09"
+  },
+  {
+    "title": "Fix bug in login flow",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-05-30"
+  },
+  {
+    "title": "Refactor database queries",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-04-22"
+  },
+  {
+    "title": "Fix bug in report generation",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-11-01"
+  },
+  {
+    "title": "Fix bug in email delivery",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-11"
+  },
+  {
+    "title": "Optimize cache strategy",
+    "description": "Performance optimization ",
+    "status": "TODO"
+  },
+  {
+    "title": "Implement API rate limiting",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-20"
+  },
+  {
+    "title": "Implement logging system",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-03-07"
+  },
+  {
+    "title": "Configure database replication",
+    "description": "Lower priority ",
+    "status": "DONE"
+  },
+  {
+    "title": "Optimize network requests",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-05-22"
+  },
+  {
+    "title": "Refactor event handlers",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-03-27"
+  },
+  {
+    "title": "Implement email notifications",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-08-15"
+  },
+  {
+    "title": "Review design mockups",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-17"
+  },
+  {
+    "title": "Investigate cache invalidation",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO",
+    "dueDate": "2026-06-04"
+  },
+  {
+    "title": "Update documentation for monitoring setup",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-08-11"
+  },
+  {
+    "title": "Implement caching layer",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-06-25"
+  },
+  {
+    "title": "Fix bug in email delivery",
+    "description": "Migration task to",
+    "status": "DONE"
+  },
+  {
+    "title": "Design reporting system",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO"
+  },
+  {
+    "title": "Configure API gateway",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE",
+    "dueDate": "2026-11-19"
+  },
+  {
+    "title": "Refactor frontend components",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-14"
+  },
+  {
+    "title": "Fix bug in checkout process",
+    "description": "Performance optimization ",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Review design mockups",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-08-18"
+  },
+  {
+    "title": "Update documentation for security policies",
+    "description": "Monitoring enhancement",
+    "status": "DONE",
+    "dueDate": "2026-12-11"
+  },
+  {
+    "title": "Optimize search algorithm",
+    "description": "Feature request.",
+    "status": "TODO"
+  },
+  {
+    "title": "Fix bug in user profile",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE"
+  },
+  {
+    "title": "Refactor data models",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "title": "Implement monitoring dashboard",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-06-07"
+  },
+  {
+    "title": "Refactor data transformations",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE"
+  },
+  {
+    "title": "Fix bug in session timeout",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-09"
+  },
+  {
+    "title": "Configure logging aggregation",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-08-14"
+  },
+  {
+    "title": "Optimize cache strategy",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-10-09"
+  },
+  {
+    "title": "Write tests for email service",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-07-16"
+  },
+  {
+    "title": "Optimize data export",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-10-05"
+  },
+  {
+    "title": "Design monitoring solution",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-08-28"
+  },
+  {
+    "title": "Review security policy",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-12-01"
+  },
+  {
+    "title": "Update documentation for testing procedures",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "title": "Update documentation for troubleshooting guide",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-24"
+  },
+  {
+    "title": "Review compliance requirements",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-07-30"
+  },
+  {
+    "title": "Investigate synchronization issues",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE"
+  },
+  {
+    "title": "Optimize synchronization",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Review architecture proposal",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-30"
+  },
+  {
+    "title": "Refactor configuration system",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-13"
+  },
+  {
+    "title": "Write tests for database migrations",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-06-13"
+  },
+  {
+    "title": "Write tests for cache invalidation",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-21"
+  },
+  {
+    "title": "Refactor test suite",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-05-01"
+  },
+  {
+    "title": "Investigate network errors",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO"
+  },
+  {
+    "title": "Implement backup system",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-10-21"
+  },
+  {
+    "title": "Write tests for user permissions",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-18"
+  },
+  {
+    "title": "Fix bug in login flow",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE"
+  },
+  {
+    "title": "Fix bug in login flow",
+    "description": "Security improvement.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-19"
+  },
+  {
+    "title": "Optimize data export",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-10"
+  },
+  {
+    "title": "Design user interface",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-23"
+  },
+  {
+    "title": "Update documentation for API reference",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-06-16"
+  },
+  {
+    "title": "Design mobile layout",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-16"
+  },
+  {
+    "title": "Configure performance monitoring",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE",
+    "dueDate": "2026-11-15"
+  },
+  {
+    "title": "Fix bug in file download",
+    "description": "Lower priority ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-04"
+  },
+  {
+    "title": "Optimize synchronization",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-28"
+  },
+  {
+    "title": "Implement two-factor authentication",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-23"
+  },
+  {
+    "title": "Fix bug in notification system",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Fix bug in navigation menu",
+    "description": "Migration task to",
+    "status": "DONE"
+  },
+  {
+    "title": "Fix bug in image upload",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE"
+  },
+  {
+    "title": "Investigate performance degradation",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Design notification center",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "TODO"
+  },
+  {
+    "title": "Update documentation for configuration options",
+    "description": "Migration task to",
+    "status": "TODO"
+  },
+  {
+    "title": "Investigate performance degradation",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE",
+    "dueDate": "2026-08-15"
+  },
+  {
+    "title": "Configure performance monitoring",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-09-19"
+  },
+  {
+    "title": "Configure monitoring alerts",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-05-10"
+  },
+  {
+    "title": "Update documentation for architecture overview",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-10-16"
+  },
+  {
+    "title": "Write tests for database migrations",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-08-13"
+  },
+  {
+    "title": "Update documentation for troubleshooting guide",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO",
+    "dueDate": "2026-02-10"
+  },
+  {
+    "title": "Refactor logging implementation",
+    "description": "Feature request.",
+    "status": "DONE",
+    "dueDate": "2026-04-23"
+  },
+  {
+    "title": "Update documentation for deployment guide",
+    "description": "Lower priority ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-16"
+  },
+  {
+    "title": "Investigate API latency",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-11-09"
+  },
+  {
+    "title": "Review incident report",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE",
+    "dueDate": "2026-06-18"
+  },
+  {
+    "title": "Update documentation for development setup",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-02-18"
+  },
+  {
+    "title": "Design security framework",
+    "description": "Integration with third-party ",
+    "status": "DONE"
+  },
+  {
+    "title": "Update documentation for configuration options",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-20"
+  },
+  {
+    "title": "Write tests for data validation",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-29"
+  },
+  {
+    "title": "Optimize notification dispatch",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-14"
+  },
+  {
+    "title": "Write tests for integration points",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO",
+    "dueDate": "2026-09-05"
+  },
+  {
+    "title": "Implement monitoring dashboard",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-30"
+  },
+  {
+    "title": "Optimize image loading",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-08"
+  },
+  {
+    "title": "Optimize bundle size",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-10-17"
+  },
+  {
+    "title": "Investigate high CPU usage",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-03-30"
+  },
+  {
+    "title": "Optimize bundle size",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-11-24"
+  },
+  {
+    "title": "Design database schema",
+    "description": "Security improvement.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-25"
+  },
+  {
+    "title": "Implement data validation",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-11-19"
+  },
+  {
+    "title": "Configure CI/CD pipeline",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-16"
+  },
+  {
+    "title": "Fix bug in password validation",
+    "description": "Migration task to",
+    "status": "DONE",
+    "dueDate": "2026-05-22"
+  },
+  {
+    "title": "Implement search functionality",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE"
+  },
+  {
+    "title": "Investigate session expiration",
+    "description": "Feature request.",
+    "status": "DONE",
+    "dueDate": "2026-10-03"
+  },
+  {
+    "title": "Investigate webhook failures",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Implement search functionality",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-03-07"
+  },
+  {
+    "title": "Fix bug in sorting algorithm",
+    "description": "Security improvement.",
+    "status": "TODO",
+    "dueDate": "2026-03-18"
+  },
+  {
+    "title": "Fix bug in form validation",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-12-18"
+  },
+  {
+    "title": "Configure dependency updates",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-16"
+  },
+  {
+    "title": "Design email templates",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE"
+  },
+  {
+    "title": "Refactor utility functions",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO",
+    "dueDate": "2026-07-07"
+  },
+  {
+    "title": "Review incident report",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Fix bug in navigation menu",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO",
+    "dueDate": "2026-06-10"
+  },
+  {
+    "title": "Optimize synchronization",
+    "description": "Performance optimization ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-17"
+  },
+  {
+    "title": "Optimize synchronization",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-04-23"
+  },
+  {
+    "title": "Write tests for scheduled tasks",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE"
+  },
+  {
+    "title": "Configure database replication",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-10-31"
+  },
+  {
+    "title": "Implement OAuth integration",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-09"
+  },
+  {
+    "title": "Refactor authentication module",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-06-24"
+  },
+  {
+    "title": "Design user profile",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-08-27"
+  },
+  {
+    "title": "Design database schema",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-03-23"
+  },
+  {
+    "title": "Design email templates",
+    "description": "Feature request.",
+    "status": "DONE",
+    "dueDate": "2026-05-18"
+  },
+  {
+    "title": "Fix bug in data synchronization",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO",
+    "dueDate": "2026-08-02"
+  },
+  {
+    "title": "Optimize network requests",
+    "description": "Security improvement.",
+    "status": "TODO",
+    "dueDate": "2026-03-07"
+  },
+  {
+    "title": "Design user interface",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Optimize scheduled tasks",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-09-13"
+  },
+  {
+    "title": "Design security framework",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Design email templates",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-12"
+  },
+  {
+    "title": "Write tests for payment processing",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-02-01"
+  },
+  {
+    "title": "Refactor constants file",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-30"
+  },
+  {
+    "title": "Update documentation for troubleshooting guide",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Refactor business logic",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-11-23"
+  },
+  {
+    "title": "Review design mockups",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-07-14"
+  },
+  {
+    "title": "Design search interface",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE",
+    "dueDate": "2026-02-27"
+  },
+  {
+    "title": "Design deployment pipeline",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Fix bug in password validation",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-24"
+  },
+  {
+    "title": "Update documentation for contributing guidelines",
+    "description": "Performance optimization ",
+    "status": "TODO",
+    "dueDate": "2026-12-18"
+  },
+  {
+    "title": "Optimize data processing",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-02-18"
+  },
+  {
+    "title": "Configure container registry",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-03"
+  },
+  {
+    "title": "Update documentation for development setup",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-05-20"
+  },
+  {
+    "title": "Refactor error handling",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-12-05"
+  },
+  {
+    "title": "Review deployment checklist",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE"
+  },
+  {
+    "title": "Implement user authentication",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-08-22"
+  },
+  {
+    "title": "Fix bug in date picker",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE"
+  },
+  {
+    "title": "Fix bug in session timeout",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-12-25"
+  },
+  {
+    "title": "Configure API gateway",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Write tests for cache invalidation",
+    "description": "Lower priority ",
+    "status": "TODO"
+  },
+  {
+    "title": "Update documentation for testing procedures",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-05"
+  },
+  {
+    "title": "Review backup procedures",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-04"
+  },
+  {
+    "title": "Review accessibility audit",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE"
+  },
+  {
+    "title": "Review pull request #123",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-03"
+  },
+  {
+    "title": "Investigate synchronization issues",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-10-05"
+  },
+  {
+    "title": "Implement error handling",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-11-13"
+  },
+  {
+    "title": "Implement monitoring dashboard",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-14"
+  },
+  {
+    "title": "Optimize data processing",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE"
+  },
+  {
+    "title": "Refactor database queries",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE",
+    "dueDate": "2026-12-14"
+  },
+  {
+    "title": "Investigate cache invalidation",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-11-11"
+  },
+  {
+    "title": "Implement real-time updates",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-11-30"
+  },
+  {
+    "title": "Fix bug in session timeout",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-10-23"
+  },
+  {
+    "title": "Implement API rate limiting",
+    "description": "Code review findings that need to be addressed.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-16"
+  },
+  {
+    "title": "Implement search functionality",
+    "description": "Feature request.",
+    "status": "TODO"
+  },
+  {
+    "title": "Design user interface",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-18"
+  },
+  {
+    "title": "Design landing page",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-02-05"
+  },
+  {
+    "title": "Design API architecture",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO",
+    "dueDate": "2026-09-30"
+  },
+  {
+    "title": "Optimize background jobs",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-10-07"
+  },
+  {
+    "title": "Refactor configuration system",
+    "description": "Monitoring enhancement",
+    "status": "DONE",
+    "dueDate": "2026-02-13"
+  },
+  {
+    "title": "Update documentation for admin guide",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE",
+    "dueDate": "2026-10-26"
+  },
+  {
+    "title": "Update documentation for style guide",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-14"
+  },
+  {
+    "title": "Configure backup schedule",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-06-04"
+  },
+  {
+    "title": "Implement session management",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-01"
+  },
+  {
+    "title": "Implement backup system",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-04-03"
+  },
+  {
+    "title": "Fix bug in API response",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-18"
+  },
+  {
+    "title": "Implement payment gateway",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE"
+  },
+  {
+    "title": "Optimize cache strategy",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-10-02"
+  },
+  {
+    "title": "Write tests for user registration",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-04-08"
+  },
+  {
+    "title": "Write tests for API endpoints",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-08-03"
+  },
+  {
+    "title": "Review security policy",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "title": "Refactor logging implementation",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE",
+    "dueDate": "2026-03-28"
+  },
+  {
+    "title": "Update documentation for admin guide",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-24"
+  },
+  {
+    "title": "Configure CI/CD pipeline",
+    "description": "Security improvement.",
+    "status": "DONE",
+    "dueDate": "2026-06-03"
+  },
+  {
+    "title": "Update documentation for development setup",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE",
+    "dueDate": "2026-06-05"
+  },
+  {
+    "title": "Design caching strategy",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO",
+    "dueDate": "2026-08-19"
+  },
+  {
+    "title": "Investigate cache invalidation",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-12-03"
+  },
+  {
+    "title": "Update documentation for development setup",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-06-06"
+  },
+  {
+    "title": "Configure error tracking",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-08-17"
+  },
+  {
+    "title": "Implement backup system",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO",
+    "dueDate": "2026-05-12"
+  },
+  {
+    "title": "Design deployment pipeline",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "title": "Fix bug in login flow",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE"
+  },
+  {
+    "title": "Fix bug in file download",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-21"
+  },
+  {
+    "title": "Refactor validation rules",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-24"
+  },
+  {
+    "title": "Update documentation for CI/CD pipeline",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-28"
+  },
+  {
+    "title": "Review SEO recommendations",
+    "description": "Security improvement.",
+    "status": "TODO"
+  },
+  {
+    "title": "Fix bug in search results",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-05-06"
+  },
+  {
+    "title": "Fix bug in image upload",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO",
+    "dueDate": "2026-07-23"
+  },
+  {
+    "title": "Fix bug in pagination",
+    "description": "Monitoring enhancement",
+    "status": "TODO"
+  },
+  {
+    "title": "Write tests for import wizard",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO"
+  },
+  {
+    "title": "Configure message queue",
+    "description": "Security improvement.",
+    "status": "TODO",
+    "dueDate": "2026-12-20"
+  },
+  {
+    "title": "Update documentation for release notes",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-08"
+  },
+  {
+    "title": "Design admin panel",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-15"
+  },
+  {
+    "title": "Write tests for import wizard",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-26"
+  },
+  {
+    "title": "Design caching strategy",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE"
+  },
+  {
+    "title": "Write tests for user registration",
+    "description": "Feature request.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-18"
+  },
+  {
+    "title": "Optimize bundle size",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-08-24"
+  },
+  {
+    "title": "Investigate cache invalidation",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Design API architecture",
+    "description": "Performance optimization ",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Update documentation for CI/CD pipeline",
+    "description": "Lower priority ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-12"
+  },
+  {
+    "title": "Optimize import process",
+    "description": "Feature request.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-03"
+  },
+  {
+    "title": "Review compliance requirements",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-03"
+  },
+  {
+    "title": "Configure SSL certificates",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "TODO",
+    "dueDate": "2026-10-03"
+  },
+  {
+    "title": "Configure database replication",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-11"
+  },
+  {
+    "title": "Fix bug in date picker",
+    "description": "Performance optimization ",
+    "status": "TODO",
+    "dueDate": "2026-10-03"
+  },
+  {
+    "title": "Refactor authentication module",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Write tests for search functionality",
+    "description": "Performance optimization ",
+    "status": "TODO",
+    "dueDate": "2026-03-21"
+  },
+  {
+    "title": "Design reporting system",
+    "description": "Performance optimization ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-02"
+  },
+  {
+    "title": "Review design mockups",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-06"
+  },
+  {
+    "title": "Write tests for integration points",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE"
+  },
+  {
+    "title": "Design user interface",
+    "description": "Migration task to",
+    "status": "DONE"
+  },
+  {
+    "title": "Configure dependency updates",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-06-10"
+  },
+  {
+    "title": "Refactor data models",
+    "description": "Lower priority ",
+    "status": "DONE"
+  },
+  {
+    "title": "Configure CI/CD pipeline",
+    "description": "Performance optimization ",
+    "status": "TODO",
+    "dueDate": "2026-03-06"
+  },
+  {
+    "title": "Write tests for cache invalidation",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-05-19"
+  },
+  {
+    "title": "Fix bug in image upload",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-30"
+  },
+  {
+    "title": "Optimize bundle size",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-21"
+  },
+  {
+    "title": "Optimize API response time",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-04-03"
+  },
+  {
+    "title": "Review architecture proposal",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-03-05"
+  },
+  {
+    "title": "Fix bug in image upload",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-12-20"
+  },
+  {
+    "title": "Investigate high CPU usage",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-03-31"
+  },
+  {
+    "title": "Investigate database timeout",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE",
+    "dueDate": "2026-04-04"
+  },
+  {
+    "title": "Implement email notifications",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-08"
+  },
+  {
+    "title": "Investigate network errors",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-15"
+  },
+  {
+    "title": "Investigate cache invalidation",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-16"
+  },
+  {
+    "title": "Write tests for user permissions",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-02-26"
+  },
+  {
+    "title": "Refactor utility functions",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-04-15"
+  },
+  {
+    "title": "Investigate background job failures",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-29"
+  },
+  {
+    "title": "Refactor logging implementation",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-07-01"
+  },
+  {
+    "title": "Update documentation for style guide",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-10-13"
+  },
+  {
+    "title": "Refactor constants file",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-08-31"
+  },
+  {
+    "title": "Optimize report generation",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-03-17"
+  },
+  {
+    "title": "Fix bug in API response",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Investigate data inconsistency",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-09-01"
+  },
+  {
+    "title": "Update documentation for CI/CD pipeline",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-25"
+  },
+  {
+    "title": "Optimize import process",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Investigate intermittent failures",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "title": "Fix bug in report generation",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-11"
+  },
+  {
+    "title": "Refactor validation rules",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-12-12"
+  },
+  {
+    "title": "Refactor event handlers",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-20"
+  },
+  {
+    "title": "Fix bug in data synchronization",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO"
+  },
+  {
+    "title": "Refactor error handling",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-24"
+  },
+  {
+    "title": "Configure backup schedule",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-21"
+  },
+  {
+    "title": "Configure cache cluster",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-04-27"
+  },
+  {
+    "title": "Fix bug in image upload",
+    "description": "Feature request.",
+    "status": "DONE",
+    "dueDate": "2026-08-25"
+  },
+  {
+    "title": "Investigate performance degradation",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO",
+    "dueDate": "2026-06-24"
+  },
+  {
+    "title": "Investigate performance degradation",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO"
+  },
+  {
+    "title": "Update documentation for testing procedures",
+    "description": "Performance optimization ",
+    "status": "DONE"
+  },
+  {
+    "title": "Update documentation for monitoring setup",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-11-06"
+  },
+  {
+    "title": "Refactor repository pattern",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-06-04"
+  },
+  {
+    "title": "Write tests for database migrations",
+    "description": "Technical debt ",
+    "status": "DONE",
+    "dueDate": "2026-12-09"
+  },
+  {
+    "title": "Update documentation for backup procedures",
+    "description": "Security improvement.",
+    "status": "TODO",
+    "dueDate": "2026-02-20"
+  },
+  {
+    "title": "Implement API rate limiting",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-03"
+  },
+  {
+    "title": "Fix bug in session timeout",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE",
+    "dueDate": "2026-11-24"
+  },
+  {
+    "title": "Investigate background job failures",
+    "description": "Performance optimization ",
+    "status": "DONE",
+    "dueDate": "2026-08-31"
+  },
+  {
+    "title": "Implement session management",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-12"
+  },
+  {
+    "title": "Update documentation for admin guide",
+    "description": "Performance optimization ",
+    "status": "TODO",
+    "dueDate": "2026-03-23"
+  },
+  {
+    "title": "Refactor error handling",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO"
+  },
+  {
+    "title": "Design user interface",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-04"
+  },
+  {
+    "title": "Write tests for data export",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Refactor routing logic",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-18"
+  },
+  {
+    "title": "Design reporting system",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Review compliance requirements",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-18"
+  },
+  {
+    "title": "Configure monitoring alerts",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "TODO",
+    "dueDate": "2026-02-18"
+  },
+  {
+    "title": "Optimize bundle size",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE",
+    "dueDate": "2026-07-23"
+  },
+  {
+    "title": "Write tests for scheduled tasks",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "TODO",
+    "dueDate": "2026-04-27"
+  },
+  {
+    "title": "Write tests for search functionality",
+    "description": "Feature request.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-12"
+  },
+  {
+    "title": "Write tests for user permissions",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "DONE",
+    "dueDate": "2026-03-21"
+  },
+  {
+    "title": "Implement error handling",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-11-22"
+  },
+  {
+    "title": "Write tests for import wizard",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-04-07"
+  },
+  {
+    "title": "Review design mockups",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "DONE",
+    "dueDate": "2026-09-20"
+  },
+  {
+    "title": "Design email templates",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-24"
+  },
+  {
+    "title": "Investigate performance degradation",
+    "description": "Technical debt ",
+    "status": "DONE"
+  },
+  {
+    "title": "Optimize image loading",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO"
+  },
+  {
+    "title": "Fix bug in notification system",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-01"
+  },
+  {
+    "title": "Investigate background job failures",
+    "description": "Security improvement.",
+    "status": "TODO",
+    "dueDate": "2026-11-11"
+  },
+  {
+    "title": "Review backup procedures",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE",
+    "dueDate": "2026-12-14"
+  },
+  {
+    "title": "Optimize asset delivery",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-11"
+  },
+  {
+    "title": "Implement payment gateway",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-09-10"
+  },
+  {
+    "title": "Investigate scheduled task errors",
+    "description": "Refactoring needed before implementing new features.",
+    "status": "DONE"
+  },
+  {
+    "title": "Write tests for search functionality",
+    "description": "Accessibility improvement to support all users.",
+    "status": "DONE",
+    "dueDate": "2026-07-04"
+  },
+  {
+    "title": "Design landing page",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-11-06"
+  },
+  {
+    "title": "Design deployment pipeline",
+    "description": "Performance optimization ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-25"
+  },
+  {
+    "title": "Write tests for email service",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-09-19"
+  },
+  {
+    "title": "Fix bug in file download",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE"
+  },
+  {
+    "title": "Design responsive dashboard",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "DONE"
+  },
+  {
+    "title": "Investigate synchronization issues",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE",
+    "dueDate": "2026-03-21"
+  },
+  {
+    "title": "Design caching strategy",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-10-26"
+  },
+  {
+    "title": "Refactor configuration system",
+    "description": "Migration task to",
+    "status": "TODO",
+    "dueDate": "2026-04-13"
+  },
+  {
+    "title": "Fix bug in date picker",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-28"
+  },
+  {
+    "title": "Implement data validation",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-01"
+  },
+  {
+    "title": "Refactor authentication module",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-05"
+  },
+  {
+    "title": "Implement password reset",
+    "description": "Integration with third-party ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-06-04"
+  },
+  {
+    "title": "Configure container registry",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-09-18"
+  },
+  {
+    "title": "Optimize import process",
+    "description": "This is a critical task",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-05-27"
+  },
+  {
+    "title": "Update documentation for admin guide",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-27"
+  },
+  {
+    "title": "Design responsive dashboard",
+    "description": "Performance optimization ",
+    "status": "TODO",
+    "dueDate": "2026-11-13"
+  },
+  {
+    "title": "Write tests for webhook handlers",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-02-08"
+  },
+  {
+    "title": "Optimize rendering performance",
+    "description": "Code review findings that need to be addressed.",
+    "status": "TODO",
+    "dueDate": "2026-08-04"
+  },
+  {
+    "title": "Write tests for notification system",
+    "description": "Documentation update to help developers onboard faster.",
+    "status": "TODO"
+  },
+  {
+    "title": "Implement user authentication",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "title": "Refactor utility functions",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "TODO",
+    "dueDate": "2026-11-27"
+  },
+  {
+    "title": "Investigate scheduled task errors",
+    "description": "Technical debt ",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-09"
+  },
+  {
+    "title": "Investigate slow queries",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-07-10"
+  },
+  {
+    "title": "Implement session management",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "DONE",
+    "dueDate": "2026-12-26"
+  },
+  {
+    "title": "Refactor test suite",
+    "description": "Feature request.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Refactor event handlers",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "TODO",
+    "dueDate": "2026-05-01"
+  },
+  {
+    "title": "Update documentation for troubleshooting guide",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-13"
+  },
+  {
+    "title": "Design security framework",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE",
+    "dueDate": "2026-04-30"
+  },
+  {
+    "title": "Review architecture proposal",
+    "description": "Monitoring enhancement",
+    "status": "DONE",
+    "dueDate": "2026-09-08"
+  },
+  {
+    "title": "Investigate API latency",
+    "description": "Infrastructure improvement to support future scaling.",
+    "status": "TODO",
+    "dueDate": "2026-03-30"
+  },
+  {
+    "title": "Fix bug in API response",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-05-26"
+  },
+  {
+    "title": "Fix bug in session timeout",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-08-28"
+  },
+  {
+    "title": "Write tests for data validation",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "DONE"
+  },
+  {
+    "title": "Review performance test results",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-08-24"
+  },
+  {
+    "title": "Optimize data processing",
+    "description": "Monitoring enhancement",
+    "status": "DONE",
+    "dueDate": "2026-03-07"
+  },
+  {
+    "title": "Investigate email delivery problems",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Refactor data transformations",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-20"
+  },
+  {
+    "title": "Update documentation for testing procedures",
+    "description": "Accessibility improvement to support all users.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-12-03"
+  },
+  {
+    "title": "Refactor data transformations",
+    "description": "Code review findings that need to be addressed.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-07-21"
+  },
+  {
+    "title": "Implement user authentication",
+    "description": "Feature request.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-24"
+  },
+  {
+    "title": "Refactor middleware stack",
+    "description": "Technical debt ",
+    "status": "TODO",
+    "dueDate": "2026-02-17"
+  },
+  {
+    "title": "Implement two-factor authentication",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-05-02"
+  },
+  {
+    "title": "Review disaster recovery plan",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-08-17"
+  },
+  {
+    "title": "Update documentation for release notes",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-08-13"
+  },
+  {
+    "title": "Fix bug in session timeout",
+    "description": "Migration task to",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-08-08"
+  },
+  {
+    "title": "Refactor database queries",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO"
+  },
+  {
+    "title": "Investigate session expiration",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-09-04"
+  },
+  {
+    "title": "Implement user roles",
+    "description": "Lower priority ",
+    "status": "TODO",
+    "dueDate": "2026-04-24"
+  },
+  {
+    "title": "Implement logging system",
+    "description": "Compliance requirement that must be completed by deadline.",
+    "status": "DONE"
+  },
+  {
+    "title": "Refactor data models",
+    "description": "Monitoring enhancement",
+    "status": "DONE",
+    "dueDate": "2026-06-26"
+  },
+  {
+    "title": "Refactor utility functions",
+    "description": "Bug affecting a subset of users",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-10-09"
+  },
+  {
+    "title": "Update documentation for release notes",
+    "description": "Code review findings that need to be addressed.",
+    "status": "DONE",
+    "dueDate": "2026-03-28"
+  },
+  {
+    "title": "Refactor frontend components",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-06-04"
+  },
+  {
+    "title": "Refactor authentication module",
+    "description": "This is a critical task",
+    "status": "DONE",
+    "dueDate": "2026-11-16"
+  },
+  {
+    "title": "Review dependency updates",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-07-02"
+  },
+  {
+    "title": "Update documentation for review process",
+    "description": "Feature request.",
+    "status": "DONE",
+    "dueDate": "2026-11-21"
+  },
+  {
+    "title": "Design caching strategy",
+    "description": "Feature request.",
+    "status": "TODO",
+    "dueDate": "2026-12-19"
+  },
+  {
+    "title": "Refactor database queries",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "title": "Optimize rendering performance",
+    "description": "This is a critical task",
+    "status": "TODO",
+    "dueDate": "2026-04-19"
+  },
+  {
+    "title": "Refactor logging implementation",
+    "description": "Bug affecting a subset of users",
+    "status": "DONE",
+    "dueDate": "2026-04-11"
+  },
+  {
+    "title": "Configure security scanning",
+    "description": "Bug affecting a subset of users",
+    "status": "TODO",
+    "dueDate": "2026-02-02"
+  },
+  {
+    "title": "Review design mockups",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "DONE"
+  },
+  {
+    "title": "Implement session management",
+    "description": "UI/UX improvement based on user feedback.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-11-27"
+  },
+  {
+    "title": "Investigate disk space usage",
+    "description": "Integration with third-party ",
+    "status": "TODO",
+    "dueDate": "2026-09-13"
+  },
+  {
+    "title": "Review accessibility audit",
+    "description": "Backup and recovery procedure that needs verification.",
+    "status": "TODO",
+    "dueDate": "2026-11-04"
+  },
+  {
+    "title": "Design admin panel",
+    "description": "Lower priority ",
+    "status": "DONE",
+    "dueDate": "2026-12-21"
+  },
+  {
+    "title": "Implement logging system",
+    "description": "Technical debt ",
+    "status": "DONE"
+  },
+  {
+    "title": "Fix bug in data export",
+    "description": "Integration with third-party ",
+    "status": "DONE",
+    "dueDate": "2026-06-03"
+  },
+  {
+    "title": "Implement data validation",
+    "description": "Analytics implementation to track user behavior.",
+    "status": "TODO",
+    "dueDate": "2026-12-23"
+  },
+  {
+    "title": "Implement data validation",
+    "description": "Monitoring enhancement",
+    "status": "TODO",
+    "dueDate": "2026-12-04"
+  },
+  {
+    "title": "Design user interface",
+    "description": "Monitoring enhancement",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-04-29"
+  },
+  {
+    "title": "Fix bug in data export",
+    "description": "Accessibility improvement to support all users.",
+    "status": "TODO",
+    "dueDate": "2026-11-05"
+  },
+  {
+    "title": "Configure logging aggregation",
+    "description": "Feature request.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-03-17"
+  },
+  {
+    "title": "Optimize search algorithm",
+    "description": "Testing task to ensure quality and prevent regressions.",
+    "status": "IN_PROGRESS",
+    "dueDate": "2026-02-03"
+  }
+]

@@ -1,24 +1,48 @@
-version: '3.8'
-
 services:
   postgres:
     image: postgres:16-alpine
     container_name: mcp-task-postgres
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
-      POSTGRES_DB: mcptasks
+      POSTGRES_DB: ${DB_NAME:-taskdb}
+      POSTGRES_USER: ${DB_USER:-taskuser}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?DB_PASSWORD environment variable is required}
     ports:
-      - "5432:5432"
+      - "${DB_PORT:-5432}:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U postgres -d mcptasks"]
+      test: ["CMD-SHELL", "pg_isready -U taskuser -d taskdb"]
       interval: 10s
       timeout: 5s
       retries: 5
-    restart: unless-stopped
+    networks:
+      - mcp-network
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mcp-task-server
+    environment:
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: ${DB_NAME:-taskdb}
+      DB_USER: ${DB_USER:-taskuser}
+      DB_PASSWORD: ${DB_PASSWORD:?DB_PASSWORD environment variable is required}
+      SPRING_PROFILES_ACTIVE: ${SPRING_PROFILES_ACTIVE:-dev}
+    ports:
+      - "${APP_PORT:-8070}:8070"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - mcp-network
+    stdin_open: true
+    tty: true
+
+networks:
+  mcp-network:
+    driver: bridge
 
 volumes:
   postgres_data:
-    driver: local

@@ -1,0 +1,50 @@
+# Build output
+target/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Documentation
+*.md
+README.md
+CLAUDE.md
+reviewer.md
+task.md
+todo.md
+todo_open.md
+AGENT.md
+REVIEW_from_GenAI.md
+TESTCONTAINERS.md
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test data
+tasks/
+
+# Claude/Gemini config
+.claude/
+.gemini/
+
+# Docker compose (not needed in image)
+compose.yaml
+docker-compose.yml

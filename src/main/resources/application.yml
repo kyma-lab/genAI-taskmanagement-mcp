@@ -1,0 +1,133 @@
+spring:
+  application:
+    name: mcp-task-server
+  
+  datasource:
+    url: jdbc:postgresql://${DB_HOST:localhost}:${DB_PORT:5432}/${DB_NAME:taskdb}?reWriteBatchedInserts=true&prepareThreshold=5
+    username: ${DB_USER:taskuser}
+    password: ${DB_PASSWORD:?DB_PASSWORD environment variable is required}
+    driver-class-name: org.postgresql.Driver
+    hikari:
+      maximum-pool-size: 20
+      minimum-idle: 5
+      connection-timeout: 30000
+      idle-timeout: 600000
+      max-lifetime: 1800000
+      connection-test-query: SELECT 1
+      validation-timeout: 5000
+  
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        jdbc:
+          batch_size: 50
+        order_inserts: true
+        order_updates: true
+        format_sql: false
+    show-sql: false
+    open-in-view: false
+  
+  flyway:
+    enabled: true
+    baseline-on-migrate: true
+    locations: classpath:db/migration
+
+# MCP Transport Configuration
+mcp:
+  transport:
+    mode: ${MCP_TRANSPORT:stdio}  # Options: stdio, http, both
+    http:
+      port: ${MCP_HTTP_PORT:8070}
+      cors-enabled: true
+      # Configure allowed CORS origins via MCP_CORS_ORIGINS env var (comma-separated).
+      # Empty = allow all origins (acceptable for STDIO-only or private networks;
+      # set explicit origins for any internet-facing HTTP deployment).
+      cors-allowed-origins: ${MCP_CORS_ORIGINS:}
+      sse:
+        heartbeat-interval-seconds: 30
+        connection-timeout-minutes: 5
+        max-connections: 100
+      security:
+        # No default API keys – HTTP transport rejects all requests until keys are configured (fail-secure).
+        # Example:
+        #   api-keys:
+        #     - name: "my-agent"
+        #       key: ${MCP_API_KEY}
+        #       description: "API key for my AI agent"
+        api-keys: []
+  resource:
+    max-tasks: 1000  # Maximum tasks returned by task://all resource; use mcp-tasks-list for paginated access
+
+# Async Batch Processing
+async:
+  batch:
+    core-pool-size: 5
+    max-pool-size: 10
+    queue-capacity: 100
+    termination-seconds: 60
+
+# Audit Logging
+audit:
+  enabled: true
+  enabled-categories:
+    - SECURITY
+    - TOOL
+    - DATA
+    - ADMIN
+    - ERROR
+  sensitive-data-max-length: 50
+  sensitive-data-strategy: TRUNCATE  # Options: TRUNCATE, REDACT, FULL
+
+# Rate Limiting (Token Bucket Algorithm)
+rate-limit:
+  tools:
+    mcp-tasks:
+      capacity: 100
+      tokens: 100
+      refill-minutes: 1
+    mcp-tasks-from-file:
+      capacity: 10
+      tokens: 10
+      refill-minutes: 1
+    mcp-tasks-summary:
+      capacity: 50
+      tokens: 50
+      refill-minutes: 1
+    mcp-tasks-list:
+      capacity: 100
+      tokens: 100
+      refill-minutes: 1
+    mcp-schema-tasks:
+      capacity: 20
+      tokens: 20
+      refill-minutes: 1
+    mcp-job-status:
+      capacity: 50
+      tokens: 50
+      refill-minutes: 1
+    mcp-help:
+      capacity: 30
+      tokens: 30
+      refill-minutes: 1
+
+# Logging
+logging:
+  level:
+    root: INFO
+    com.example.mcptaskserver: DEBUG
+    org.hibernate.SQL: WARN
+    org.hibernate.type.descriptor.sql.BasicBinder: WARN
+    AUDIT: INFO
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
+
+# Application Info
+info:
+  app:
+    name: MCP Task Server
+    description: AI-powered task data injection server (STDIO, HTTP, or both)
+    version: 1.0.0-SNAPSHOT
+    mcp-spec-version: 2025-06-18
